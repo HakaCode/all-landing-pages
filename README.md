@@ -14,7 +14,7 @@ Bem-vindo ao repositório de Landing Pages! Este repositório foi criado para ar
 
 Se você deseja contribuir com este repositório, sinta-se à vontade para criar um pull request. Toda contribuição é bem-vinda!
 
-## Contribuições
+## Creditos
 
 Ideia do Workflow: [Kadu](https://www.tabnews.com.br/Kadu/automatizacao-inteligente-no-github-mantendo-seu-readme-sempre-atualizado)
 
